@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f10a06</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color3t">#604340ff</color>
+    <color name="color1">#08d624</color>
+    <color name="membercolor">#0e24e4</color>
+    <color name="logorcolor">#0ddff2</color>
+    <color name="Committeercolor">#0f890f</color>
+
+</resources>

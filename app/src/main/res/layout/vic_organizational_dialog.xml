@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/name_text"
+        android:text="Milon Hossen"
+        android:layout_gravity="center"
+        android:textColor="@color/membercolor"
+        android:textSize="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/dept_text"
+        android:text="Department of Marketing"
+        android:textSize="16dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/phone_text"
+        android:text="01774-336413"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/sesssion_text"
+        android:text="Session:2013-14"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+ <TextView
+        android:id="@+id/name_text1"
+        android:text="Mahidul Muhit"
+        android:layout_gravity="center"
+        android:textColor="@color/membercolor"
+        android:textSize="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/dept_text1"
+        android:text="Department of Marketing"
+        android:textSize="16dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/phone_text1"
+        android:text="01773-157753"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/sesssion_text1"
+        android:text="Session:2013-14"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+ <TextView
+        android:id="@+id/name_text2"
+        android:text="Arafat Asim"
+        android:layout_gravity="center"
+        android:textColor="@color/membercolor"
+        android:textSize="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/dept_text2"
+        android:text="Department of Botany"
+        android:textSize="16dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/phone_text2"
+        android:text="01717-884358"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/sesssion_text2"
+        android:text="Session:2014-15"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

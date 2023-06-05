@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/name_text2"
+        android:text="Rakib Hasan"
+        android:layout_gravity="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/dept_text2"
+        android:text="Department of Statistics"
+        android:textSize="16dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/phone_text2"
+        android:text="01738-696239"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/sesssion_text2"
+        android:text="Session:2012-13"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/name_text3"
+        android:text="Amanullah Abir"
+        android:layout_gravity="center"
+        android:textSize="18dp"
+        android:textColor="@color/color1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/dept_text3"
+        android:text="Islamic Studies"
+        android:textSize="16dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/phone_text3"
+        android:text="01776-841349"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/sesssion_text3"
+        android:text="Session:2012-13"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/name_text4"
+        android:text="Shahadath Hossain"
+        android:layout_gravity="center"
+        android:textColor="@color/membercolor"
+        android:textSize="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/dept_text4"
+        android:text="Department of Mathematics"
+        android:textSize="16dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/phone_text4"
+        android:text="01761-255646"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/sesssion_text4"
+        android:text="Session:2013-14"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/name_text5"
+        android:text="Sumon Chandra Singh"
+        android:layout_gravity="center"
+        android:textSize="18dp"
+        android:textColor="@color/colorAccent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/dept_text5"
+        android:text="Department of History"
+        android:textSize="16dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/phone_text5"
+        android:text="01773-507864"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/sesssion_text5"
+        android:text="Session:2012-13"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/name_text6"
+        android:text="Md Faruk Hossen"
+        android:layout_gravity="center"
+        android:textSize="18dp"
+        android:textColor="@color/logorcolor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/dept_text6"
+        android:text="Department of History"
+        android:textSize="16dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/phone_text6"
+        android:text="N/A"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/sesssion_text6"
+        android:text="Session:2012-13"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/name_text"
+        android:text="Md. Atikur Rahman"
+        android:layout_gravity="center"
+        android:textColor="@color/color1"
+        android:textSize="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/dept_text"
+        android:text="Department of Geography"
+        android:textSize="16dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/phone_text"
+        android:text="N/A"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/sesssion_text"
+        android:text="Session:2013-14"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
