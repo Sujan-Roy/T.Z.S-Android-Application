@@ -10,5 +10,4 @@ app is secure for the user because, without a username and password, anyone canâ
 information. This app also guides them to travel through Rajshahi City. This app indicates to 
 travelers to find emergency amenities such as banks, atm, hospitals, doctors, bus/train stations, and so
 forth. This application is to be installed on the Android based Smartphone. The project has been
-developed using Java, XML, Android framework, Google map, and SQLite database.  
-The Android studio is used as a  development environment.
+developed using Java, XML, Android framework, Google map, and SQLite database. The Android studio is used as a  development environment.
